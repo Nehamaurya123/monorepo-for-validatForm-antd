@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container {
+  .form_container {
+    width: 80%;
+    background: rgb(85, 158, 158);
+    padding: 20px;
+    border-radius: 5px;
+    margin: 50px auto;
+    .heading {
+      font-size: 25px;
+      font-weight: 800;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .form {
+      .button {
+        width:100px;
+        background: white;
+        color: teal;
+      }
+    }
+  }
+}
